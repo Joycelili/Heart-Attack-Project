@@ -27,4 +27,4 @@ Documentos encontrados:
 .Storytelling: Objetivos de nuestra jornada de salud
 
 Apredizaje:
-Uso de Maplotlist y Seaborn
+Uso de Matplotlib y Seaborn
