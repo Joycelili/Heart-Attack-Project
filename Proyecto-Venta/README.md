@@ -1,4 +1,4 @@
-# Proyecto-Heart Attack
+#Heart Attack- Project
 
 En esta oportunidad se crea un proyecto el cual se pueda ofrecer como producto, realizando la limpieza de un dataframe de escogencia y realizando los análisis pertinentes para su presentación.
 
