@@ -30,10 +30,10 @@ Posteriormente se realizó una limpieza primaria. En donde se cambió el nombre 
 
 .La hipercolesterolemia e hiperglucemia no están correlacionados directamente con los ataques al corazón.
 
-<h2>·Documentos encontrados:<h2/>
+<h2>·Documentos encontrados:</h2>
   
 .Carpeta de Output: Con las gráficas producidas.
-  
+
 .Carpeta SRC: Con las funciones usadas para la realización de la actividad.
 
 .Readme: Resumen de la actividad realizada.
