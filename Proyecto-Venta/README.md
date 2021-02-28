@@ -1,6 +1,6 @@
 ![attack](https://github.com/Joycelili/Heart-Attack-Project/blob/master/Proyecto-Venta/output/attack.gif)
 
-<h1>Proyecto:</h1>
+<h1>Heart Attack-Project:</h1>
 
 <h2>Jornadas de educación y prevención de Enfermedades cardiovasculares en pacientes de alto riesgo.</h2>
 
